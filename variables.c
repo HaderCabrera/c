@@ -12,7 +12,7 @@ int main()
     y = 9.34;
     a = '%';
     printf("La variable z tiene un valor de: %i\n", z);
-    printf("La variable x tiene un valor de: %f\n", x);
+    printf("La variable x tiene un valor de: %3.3f\n", x);
     printf("La variable y tiene un valor de: %f\n", y);
     printf("La variable a tiene un valor de: %c\n", a);
 
